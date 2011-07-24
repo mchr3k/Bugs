@@ -1,0 +1,3 @@
+h1. StyledTextScroll
+
+This project covers a bug in the StyledText control which makes scrolling text with lots of commas 5x slower than normal text.
