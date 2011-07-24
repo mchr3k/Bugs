@@ -11,4 +11,4 @@ This bug has been observed on Windows 7. To test it on your own platform you sho
 * Click the Start button and wait while both text boxes are scrolled
 * The timing results are displayed in a message box
 
-This bug has been reported to the Eclipse SWT project: https://bugs.eclipse.org/bugs/show_bug.cgi?id=352927
+This bug has been reported to the Eclipse SWT project: "Bug ID 352927":https://bugs.eclipse.org/bugs/show_bug.cgi?id=352927
