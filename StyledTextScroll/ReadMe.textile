@@ -4,9 +4,11 @@ This project covers a bug in the StyledText control which makes scrolling text w
 
 This bug has been observed on Windows 7. To test it on your own platform you should do the following:
 
-* Download the example jar: 
+* Download the "example jar":https://github.com/downloads/mchr3k/Bugs/styledtextscroll.jar
 * Run the jar from the command line
 ** Windows/Linux - "java -jar styledtextscroll.jar"
 ** OSX - "java -jar styledtextscroll.jar -XstartOnFirstThread"
 * Click the Start button and wait while both text boxes are scrolled
 * The timing results are displayed in a message box
+
+This bug has been reported to the Eclipse SWT project: https://bugs.eclipse.org/bugs/show_bug.cgi?id=352927
