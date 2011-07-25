@@ -12,3 +12,5 @@ This bug has been observed on Windows 7. To test it on your own platform you sho
 * The timing results are displayed in a message box
 
 This bug has been reported to the Eclipse SWT project: "Bug ID 352927":https://bugs.eclipse.org/bugs/show_bug.cgi?id=352927
+
+"Related StackOverFlow Question":http://stackoverflow.com/questions/6822170/how-to-reduce-the-number-of-runs-returned-from-uniscribe-scriptitemize
